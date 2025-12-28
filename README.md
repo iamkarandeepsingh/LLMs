@@ -19,7 +19,7 @@ Large Language Models are neural networks trained on massive text corpora that e
 | File | Description |
 |-----|------------|
 | **GPT Models.ipynb** | Prompt-based text generation using GPT-style LLMs |
-| **HuggingFace Transformers.ipynb** | Introduction to transformer models using Hugging Face |
+| **HuggingFace Transformers.ipynb** | Hugging Face Transformers framework|
 | **Question and Answering Models with BERT.ipynb** | Extractive question answering using BERT |
 | **Text Classification with XLNet.ipynb** | Text classification using XLNet |
 ---

@@ -1,5 +1,4 @@
-# LLMs
-# Large Language Models (LLMs) – Hands-On NLP Projects
+## Large Language Models (LLMs)
 
 ## 📖 Introduction
 
